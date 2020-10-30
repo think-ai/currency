@@ -1,5 +1,5 @@
 <?php
-declare(strict_type=1);
+declare(strict_types=1);
 namespace Test\TestCase;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
