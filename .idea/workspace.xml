@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f97629c6-625c-4c56-9295-f759a1654347" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/currency.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/currency.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,17 +95,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604038734827</updated>
-      <workItem from="1604038735926" duration="528000" />
+      <workItem from="1604038735926" duration="836000" />
     </task>
+    <task id="LOCAL-00001" summary="Autoload Added">
+      <created>1604039325995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604039325995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IDE Files Edited">
+      <created>1604039348341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604039348341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Main Operation Class Added">
+      <created>1604039370831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604039370831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IDE Helper File Added">
+      <created>1604039379684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604039379684</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PHPUnit Cofiguration Added">
+      <created>1604039537624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604039537624</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Autoload Added" />
+    <MESSAGE value="IDE Files Edited" />
+    <MESSAGE value="Main Operation Class Added" />
+    <MESSAGE value="IDE Helper File Added" />
+    <MESSAGE value="PHPUnit Cofiguration Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHPUnit Cofiguration Added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2251" y="128" key="NewPhpClassDialog" timestamp="1604038882093">
       <screen x="1920" y="-480" width="1080" height="1880" />
     </state>
     <state x="2251" y="128" key="NewPhpClassDialog/1920.-480.1080.1880/-1080.-482.1080.1880/0.0.1920.1040@1920.-480.1080.1880" timestamp="1604038882093" />
+    <state x="1952" y="128" key="Vcs.Push.Dialog.v2" timestamp="1604039382992">
+      <screen x="1920" y="-480" width="1080" height="1880" />
+    </state>
+    <state x="1952" y="128" key="Vcs.Push.Dialog.v2/1920.-480.1080.1880/-1080.-482.1080.1880/0.0.1920.1040@1920.-480.1080.1880" timestamp="1604039382992" />
   </component>
 </project>
