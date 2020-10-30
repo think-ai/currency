@@ -21,7 +21,6 @@ class CurrencyRound
      */
     public static function round(float $amount, float $multiply = 0.01, int $roundUpOrDown = -1) : float
     {
-        James Bond
         if ( $multiply <= 0 ) {
             throw new InvalidArgumentException("Argument 2 cannot be less than or Equal to Zero");
         }
